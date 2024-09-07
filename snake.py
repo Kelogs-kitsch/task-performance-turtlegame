@@ -14,7 +14,7 @@ high_score = 0
 game_over = False
 
 win = turtle.Screen()
-win.title("Snake Game with WASD Controls and Score Above")
+win.title("Snake Game")
 win.bgcolor("black")
 win.setup(width=600, height=600)
 win.tracer(0)
